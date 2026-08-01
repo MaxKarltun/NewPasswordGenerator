@@ -5,7 +5,7 @@
 [![.NET](https://img.shields.io/badge/.NET-SDK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-100%25-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 
-![VS Code screenshot](https://github.com/MaxKarltun/NewPasswordGenerator/assets/placeholder)
+![VS Code screenshot](https://github.com/MaxKarltun/NewPasswordGenerator/assets/94321018/vs-code-screenshot.png)
 
 A simple and reusable **C#/.NET password generator SDK** for creating secure passwords with ease.
 
