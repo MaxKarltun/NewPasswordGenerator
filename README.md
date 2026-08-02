@@ -8,6 +8,13 @@
 ![VS Code screenshot](https://github.com/MaxKarltun/NewPasswordGenerator/assets/94321018/vs-code-screenshot.png)
 
 A simple and reusable **C#/.NET password generator SDK** for creating secure passwords with ease.
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+![App Screenshot](preview888.png)
+
 
 ## Why use NewPasswordGenerator?
 
